@@ -27,9 +27,8 @@ name: Link-to-Slide-Deck
 <br><br>
 ### Follow along on your own computer at this link:
 
-https://hashicorp.github.io/field-workshops-vault/slides/multi-cloud/vault-oss/index.html
+https://bit.ly/32SmtJZ
 
-???
 
 The link to this slide deck
 
@@ -37,10 +36,11 @@ The link to this slide deck
 name: Introductions
 # Introductions
 
-* Your Name
-* Job Title
-* Secrets Management Experience
-* Favorite Text Editor
+* Your Name: Dan Fedick
+* Job Title: Senior Solutions Engineer
+* Secrets Management Experience: Implemented Vault as the core secrets manager, certificate manager for Optimizely.
+* Favorite Text Editor: DOOM EMACS
+
 
 ???
 * Use this slide to introduce yourself, give a little bit of your background story, then go around the room and have all your participants introduce themselves.
