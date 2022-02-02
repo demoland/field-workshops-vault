@@ -36,10 +36,10 @@ The link to this slide deck
 name: Introductions
 # Introductions
 
-* Your Name: Dan Fedick
-* Job Title: Senior Solutions Engineer
-* Secrets Management Experience: Implemented Vault as the core secrets manager, certificate manager for Optimizely.
-* Favorite Text Editor: DOOM EMACS
+* **Your Name:** Dan Fedick
+* **Job Title:** Senior Solutions Engineer
+* **Secrets Management Experience:** Implemented Vault as the core secrets manager, certificate manager for Optimizely.
+* **Favorite Text Editor:** DOOM EMACS
 
 
 ???
