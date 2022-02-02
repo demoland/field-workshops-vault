@@ -39,8 +39,7 @@ name: Introductions
 * **Your Name:** Dan Fedick
 * **Job Title:** Senior Solutions Engineer
 * **Secrets Management Experience:** Implemented Vault as the core secrets manager, certificate manager for Optimizely.
-* **Favorite Text Editor:** DOOM EMACS
-
+* **Favorite Text Editor:** [DOOM EMACS](https://github.com/hlissner/doom-emacs)
 
 ???
 * Use this slide to introduce yourself, give a little bit of your background story, then go around the room and have all your participants introduce themselves.
