@@ -47,9 +47,9 @@ layout: true
 ---
 name: traditional-security-models
 # The Traditional Security Model
-* Traditional security models were built upon the idea of perimeter based security.
-* There would be a firewall, and inside that firewall it was assumed one was safe.
-* Resources such as databases were mostly static.  As such rules were based upon IP address, credentials were baked into source code or kept in a static file on disk.
+* Perimeter based security
+* Credentials stored on disk in the castle. 
+* Resources such as databases applications were mostly static and granted access based on IP.  
 
 ???
 This slide discusses the traditional security model

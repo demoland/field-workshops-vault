@@ -40,11 +40,11 @@ name:vault-secrets-engines-2
 * Key/Value (KV)
 * PKI
 * SSH
-* TOTP
+* TOTP (Time-based one-time password) protocol
 * Databases
 * AWS, Azure, and Google
 * Active Directory
-* Transit
+* Transit - EaaS (aes128/256, ecdsa-*, rsa-*, chacha20-poly1305)
 
 ???
 Spend some time pointing out what some of these do:
