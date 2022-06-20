@@ -29,7 +29,8 @@ name: Link-to-Slide-Deck
 
 https://bit.ly/32SmtJZ
 
-
+???
+  
 The link to this slide deck
 
 ---
@@ -45,6 +46,7 @@ name: Introductions
 
 
 ???
+
 * Use this slide to introduce yourself, give a little bit of your background story, then go around the room and have all your participants introduce themselves.
 
 * The favorite text editor question is a good ice breaker, but perhaps more importantly it gives you an immediate gauge of how technical your users are.  
