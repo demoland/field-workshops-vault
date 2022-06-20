@@ -34,12 +34,21 @@ The link to this slide deck
 
 ---
 name: Introductions
+
 # Introductions
 
-* **Your Name:** Dan Fedick
+* **Dan Fedick**
+* **Job Title** Senior Solutions Engineer
+* [LinkedIn](https://www.linkedin.com/in/danfedick/)
+
+* **Jay Aware**
 * **Job Title:** Senior Solutions Engineer
-* **Secrets Management Experience:** Implemented Vault as the core secrets manager, certificate manager for Optimizely.
-* **Favorite Text Editor:** [DOOM EMACS](https://github.com/hlissner/doom-emacs)
+* [LinkedIn](https://www.linkedin.com/in/jitinaware/) 
+
+* **Lorely Flores**
+* **Job Title:** Senior Field Marketing Manager
+* [LinkedIn](https://www.linkedin.com/in/lorely-flores-91771229/)
+
 
 ???
 * Use this slide to introduce yourself, give a little bit of your background story, then go around the room and have all your participants introduce themselves.
