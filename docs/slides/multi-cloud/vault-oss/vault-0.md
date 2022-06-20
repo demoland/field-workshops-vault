@@ -37,11 +37,12 @@ name: Introductions
 
 # Introductions
 
-[Dan Fedick](https://www.linkedin.com/in/danfedick/)
-**Job Title: ** Senior Solutions Engineer
+[Dan Fedick](https://www.linkedin.com/in/danfedick/), **Senior Solutions Engineer**
 
-[Jay Aware](https://www.linkedin.com/in/jitinaware/)
-**Job Title: ** Senior Solutions Engineer
+
+[Jay Aware](https://www.linkedin.com/in/jitinaware/), **Senior Solutions Engineer**
+
+
 
 ???
 * Use this slide to introduce yourself, give a little bit of your background story, then go around the room and have all your participants introduce themselves.
