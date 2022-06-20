@@ -60,7 +60,7 @@ name: Table-of-Contents
 1. Vault Authentication Methods
 1. Vault Policies
 1. Dynamic Database Secrets
-1. Encryption as a Service
+1. Vault PKI Secrets Engine
 
 ???
 The table of contents for the workshop
@@ -73,9 +73,8 @@ name: instruqt-tracks
 * This workshop uses the following tracks:
     1. **Vault Basics**
     1. **Vault Dynamic Database Credentials**
-    1. **Vault Encryption as a Service**
+    1. **Vault PKI Secrets Engine**
 * We'll cover chapters 1-6 and then do the first lab.
 * We'll then cover chapter 7 with the second lab.
-* We'll finish with chapter 8 and the third lab.
 
 Your instructor will provide the URLs for the tracks.
