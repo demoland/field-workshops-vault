@@ -38,17 +38,16 @@ name: Introductions
 # Introductions
 
 * **Dan Fedick**
-* **Job Title** Senior Solutions Engineer
-* [LinkedIn](https://www.linkedin.com/in/danfedick/)
+**Job Title** Senior Solutions Engineer
+[LinkedIn](https://www.linkedin.com/in/danfedick/)
 
 * **Jay Aware**
-* **Job Title:** Senior Solutions Engineer
-* [LinkedIn](https://www.linkedin.com/in/jitinaware/) 
+**Job Title:** Senior Solutions Engineer
+[LinkedIn](https://www.linkedin.com/in/jitinaware/) 
 
 * **Lorely Flores**
-* **Job Title:** Senior Field Marketing Manager
-* [LinkedIn](https://www.linkedin.com/in/lorely-flores-91771229/)
-
+**Job Title:** Senior Field Marketing Manager
+[LinkedIn](https://www.linkedin.com/in/lorely-flores-91771229/)
 
 ???
 * Use this slide to introduce yourself, give a little bit of your background story, then go around the room and have all your participants introduce themselves.
