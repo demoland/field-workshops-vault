@@ -82,5 +82,6 @@ name: instruqt-tracks
     1. **[Vault PKI Secrets Engine](https://play.instruqt.com/hashicorp/invite/qua26wnjpcmj)**
 * We'll cover chapters 1-6 and then do the first lab.
 * We'll then cover chapter 7 with the second lab.
+* The overview for PKI is actually in the third lab. 
 
 Your instructor will provide the URLs for the tracks.
