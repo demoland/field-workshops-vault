@@ -39,8 +39,12 @@ name: Introductions
 # Introductions
 
 [John Petracek](https://www.linkedin.com/in/johnpetracek/), **Account Director, USAF/USSF**
+**Phone:** 703-626-8800
+**Email:** jpetracek@hashicorp.com
 
 [Dan Fedick](https://www.linkedin.com/in/danfedick/), **Senior Solutions Engineer, USAF/USSF**
+**Phone:** 571-417-0835
+**Email:** daniel.fedick@hashicorp.com
 
 
 ???
