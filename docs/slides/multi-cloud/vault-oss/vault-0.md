@@ -77,9 +77,9 @@ name: instruqt-tracks
 * This workshop uses [Instruqt](https://instruqt.com) for hands-on labs.
 * Instruqt labs are run in "tracks" that are divided into "challenges".
 * This workshop uses the following tracks:
-    1. **Vault Basics**
-    1. **Vault Dynamic Database Credentials**
-    1. **Vault PKI Secrets Engine**
+    1. **[Vault Basics](https://play.instruqt.com/hashicorp/invite/y5hdtqegjrxv)**
+    1. **[Vault Dynamic Database Credentials](https://play.instruqt.com/hashicorp/invite/cl5yboezoym6)**
+    1. **[Vault PKI Secrets Engine](https://play.instruqt.com/hashicorp/invite/qua26wnjpcmj)**
 * We'll cover chapters 1-6 and then do the first lab.
 * We'll then cover chapter 7 with the second lab.
 
