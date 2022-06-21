@@ -38,11 +38,9 @@ name: Introductions
 
 # Introductions
 
-[Dan Fedick](https://www.linkedin.com/in/danfedick/), **Senior Solutions Engineer**
+[John Petracek](https://www.linkedin.com/in/johnpetracek/), **Account Director, USAF/USSF**
 
-
-[Jay Aware](https://www.linkedin.com/in/jitinaware/), **Senior Solutions Engineer**
-
+[Dan Fedick](https://www.linkedin.com/in/danfedick/), **Senior Solutions Engineer, USAF/USSF**
 
 
 ???
