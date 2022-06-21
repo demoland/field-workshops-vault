@@ -84,4 +84,3 @@ name: instruqt-tracks
 * We'll then cover chapter 7 with the second lab.
 * The overview for PKI is actually in the third lab. 
 
-Your instructor will provide the URLs for the tracks.
